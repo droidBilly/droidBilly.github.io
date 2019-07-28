@@ -577,3 +577,8 @@ header .intro-text {
 	margin-bottom: 20px;
 }
 }
+
+.icons i {
+	font-size: xx-large;
+	margin: 5px;
+}
